@@ -1,0 +1,32 @@
+{
+  "entertainment": [
+    {
+      "name": "Songs",
+      "link": "https://www.youtube.com/watch?v=aCH1eyWq9B0",
+      "category": "entertainment",
+      "timesPlayed": 8,
+      "id": 223221232321,
+      "lastSeenAt": "2023-03-28"
+    }
+  ],
+  "education": [
+    {
+      "name": "Frontend Developer",
+      "link": "https://www.youtube.com/watch?v=vP3TRAsjZss",
+      "category": "education",
+      "timesPlayed": 2,
+      "id": 223221232321,
+      "lastSeenAt": "2023-03-28"
+    }
+  ],
+  "motivation": [
+    {
+      "id": 223221232321,
+      "name": "Motivation2Study",
+      "link": "https://www.youtube.com/watch?v=-uPaSOD7Dvk",
+      "category": "motivation",
+      "timesPlayed": 1,
+      "lastSeenAt": "2023-03-28"
+    }
+  ]
+}
